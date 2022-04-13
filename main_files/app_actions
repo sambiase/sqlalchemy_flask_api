@@ -1,6 +1,0 @@
-OK  Registrar Equipes(times) (POST /teams)
-OK  Registrar Funcionários (e possibilitar vincular a uma equipe) (POST /employees)
-OK  Registrar Indicações. (POST /recommendations)
-OK  Retornar uma lista de equipes e respectivos funcionários (GET /teams)
-OK  Retornar uma lista de indicações (GET /recommendations)
-OK  Retornar quais funcionários realizaram indicações (GET /recommendations/employees)
