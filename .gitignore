@@ -103,7 +103,7 @@ celerybeat.pid
 
 # Environments
 <<<<<<< HEAD
-secrets/
+
 .idea/
 =======
 >>>>>>> 7aa8cac6f73ab815f3f608b413f66c4bc4d4201a

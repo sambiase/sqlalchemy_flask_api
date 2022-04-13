@@ -2,13 +2,12 @@ import sqlalchemy
 from flask import Flask, jsonify, request, make_response, json
 from flask_marshmallow import Marshmallow
 from marshmallow_sqlalchemy import SQLAlchemyAutoSchema
-from secrets import secrets
 from sqlalchemy.orm import declarative_base, sessionmaker, relationship
 from sqlalchemy import Column, Integer, String, ForeignKey
 
 app = Flask(__name__)
 
-engine = sqlalchemy.create_engine(f'mysql+pymysql://root:{secrets.password}@localhost/simChallenge', echo=True)
+engine = sqlalchemy.create_engine('sqlite:///main.db', echo=True)
 Base = declarative_base()
 Session = sessionmaker(bind=engine)
 session = Session()
