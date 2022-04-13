@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SQLAlchemy / Flask / MySQL  
 
 ##What is This?
