@@ -33,4 +33,6 @@ Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 Use **Postman** or **Insomnia** to make requests towards the endpoints
 ![img.png](main_files/img.png)
 
+![GitHub](https://img.shields.io/github/license/sambiase/sqlalchemy_flask_api?logo=GitHub)
 
+![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsambiase%2F)
