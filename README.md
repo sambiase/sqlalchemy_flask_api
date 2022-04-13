@@ -31,6 +31,9 @@ Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
 
 Use **Postman** or **Insomnia** to make requests towards the endpoints
+
 ![img.png](main_files/img.png)
 
-![GitHub](https://img.shields.io/github/license/sambiase/sqlalchemy_flask_api?logo=GitHub) |  <a href="https://www.linkedin.com/in/sambiase" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+[![Updates](https://pyup.io/repos/github/sambiase/sqlalchemy_flask_api/shield.svg)](https://pyup.io/repos/github/sambiase/sqlalchemy_flask_api/)
+| ![GitHub](https://img.shields.io/github/license/sambiase/sqlalchemy_flask_api?logo=GitHub) |  <a href="https://www.linkedin.com/in/sambiase" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
