@@ -1,11 +1,11 @@
 # SQLAlchemy / Flask / MySQL  
 
-##What is This?
+## What is This?
 
 This is a simple code made in Python with the intention to create an API that integrates 
 **SQLAlchemy** with **Flask** and **MySQL DB**. 
 
-##What can be done with the API?
+## What can be done with the API?
 
 1. Register Teams `(POST /teams)`
 2. Register Employees and allow to add them to a given Team `(POST /employees)`
@@ -16,7 +16,7 @@ This is a simple code made in Python with the intention to create an API that in
 
 
 
-##How to run this? 
+## How to run this? 
 
 Para rodar o servidor execute o comando abaixo no terminal dentro da pasta raíz do projeto:
 ```
