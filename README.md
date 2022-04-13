@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SQLAlchemy / Flask / MySQL  
 
 ##What is This?
@@ -38,3 +39,7 @@ tabelas que serão criadas.
 
 **Atenção**: O objetivo não é aprender Flask, o Flask está sendo utilizado apenas para que
 o desafio fique o mais simples e objetivo possível. Não é uma tecnologia utilizada na Simbiose.
+=======
+# sqlalchemy_flask_api
+SQL Alchemy Flask API
+>>>>>>> 7aa8cac6f73ab815f3f608b413f66c4bc4d4201a

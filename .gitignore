@@ -102,8 +102,11 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+<<<<<<< HEAD
 secrets/
 .idea/
+=======
+>>>>>>> 7aa8cac6f73ab815f3f608b413f66c4bc4d4201a
 .env
 .venv
 env/
@@ -111,7 +114,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+<<<<<<< HEAD
 projetoSim/scratches/secrets.py
+=======
+>>>>>>> 7aa8cac6f73ab815f3f608b413f66c4bc4d4201a
 
 # Spyder project settings
 .spyderproject
@@ -130,5 +136,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 7aa8cac6f73ab815f3f608b413f66c4bc4d4201a
